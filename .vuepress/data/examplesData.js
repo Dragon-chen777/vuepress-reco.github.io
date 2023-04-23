@@ -400,5 +400,11 @@ export default [
     desc: '一款简洁易懂算法博客 & 文档抠细节 & 主题',
     link: 'https://zscnb.gitee.io',
     thumbnail: 'https://zscnb.gitee.io/bg.png'
+  },
+  {
+    name: 'NOxONE',
+    desc: '一定要爱着点什么，恰似草木对光阴的钟情。',
+    link: 'https://dragon-chen777.github.io/NOxONE/',
+    thumbnail: 'https://dragon-chen777.github.io/assets/images/cover.png'
   }
 ]
